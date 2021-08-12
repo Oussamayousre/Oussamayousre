@@ -1,9 +1,7 @@
-### Welcome to my github 👋
+### Welcome to my github page 👋
 
 
-**Oussama Yousr** .
-
-Here are some ideas to get you started:
+**Oussama Yousr : ** 
 
 - 🔭 I’m currently a third year computer science Student with specialization in ML and DL  ...
 - 🌱 I’m currently learning Graph neural networks 
